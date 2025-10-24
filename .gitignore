@@ -1,0 +1,22 @@
+# Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# IDE
+.vs/
+.idea/
+*.csproj
+*.sln
+
+# Personal
+/MD-Files-Archive/
+/Documentation/Daily-Logs/
+
+# Linux
+*~
+.directory
